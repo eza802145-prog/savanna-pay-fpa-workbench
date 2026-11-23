@@ -1,0 +1,23 @@
+ReportDate,Account_Code_Name,Debit_Amt,Credit_Amt,Entity
+2026-02-28,1010 - Fixed Assets (POS Terminals & Hardware),4720000000.00,0.00,Savanna Pay Ltd
+2026-02-28,1020 - Software Capitalization (Core Switch IP),2880000000.00,0.00,Savanna Pay Ltd
+2026-02-28,1110 - Corporate Operating Cash,2340000000.00,0.00,Savanna Pay Ltd
+2026-02-28,1120 - Settlement Clearing Bank Float,3710000000.00,0.00,Savanna Pay Ltd
+2026-02-28,1210 - Restricted Settlement/Escrow Cash,41950000000.00,0.00,Savanna Pay Ltd
+2026-02-28,1250 - Payment Processor Receivables,4820000000.00,0.00,Savanna Pay Ltd
+2026-02-28,1310 - Gross Loans to Merchants & Customers,11150000000.00,0.00,Savanna Pay Ltd
+2026-02-28,1320 - Loan Loss Allowance (ECL),0.00,810000000.00,Savanna Pay Ltd
+2026-02-28,1360 - Treasury Bills & Liquid Placements,6550000000.00,0.00,Savanna Pay Ltd
+2026-02-28,1410 - Prepayments & Deferred Tax Assets,460000000.00,0.00,Savanna Pay Ltd
+2026-02-28,2110 - Customer Wallet Balances,0.00,36900000000.00,Savanna Pay Ltd
+2026-02-28,2120 - Agent Float Liabilities,0.00,4310000000.00,Savanna Pay Ltd
+2026-02-28,2140 - Merchant Settlement Payables,0.00,2840000000.00,Savanna Pay Ltd
+2026-02-28,2220 - Deferred Transaction Revenue,0.00,455000000.00,Savanna Pay Ltd
+2026-02-28,2210 - Accrued Processor Fees & Vendor Payables,0.00,2245000000.00,Savanna Pay Ltd
+2026-02-28,2250 - Corporate Taxes Payable,0.00,530000000.00,Savanna Pay Ltd
+2026-02-28,2310 - Short-term Credit Facility,0.00,2950000000.00,Savanna Pay Ltd
+2026-02-28,2510 - Long-term Borrowings (Venture Debt),0.00,9000000000.00,Savanna Pay Ltd
+2026-02-28,3100 - Share Capital,0.00,2500000000.00,Savanna Pay Ltd
+2026-02-28,3110 - Paid-In Capital (Share Premium),0.00,8000000000.00,Savanna Pay Ltd
+2026-02-28,3200 - Retained Earnings,0.00,5367302226.00,Savanna Pay Ltd
+2026-02-28,3300 - Profit for the Period (YTD),0.00,2672697774.00,Savanna Pay Ltd

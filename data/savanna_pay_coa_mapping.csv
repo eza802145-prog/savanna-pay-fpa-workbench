@@ -1,0 +1,23 @@
+AccountCode,AccountName,BS_Group,BS_Section,BS_LineItem,NormalBalance,PresentationSign,Notes
+1010,Fixed Assets (POS Terminals & Hardware),Assets,NON-CURRENT ASSETS,Property & Equipment (net),Debit,1,POS terminal fleet & Lagos HQ infrastructure net of depreciation
+1020,Software Capitalization (Core Switch IP),Assets,NON-CURRENT ASSETS,Intangible Assets,Debit,1,Capitalized payment switch engine & CBN licensing software
+1110,Corporate Operating Cash,Assets,CURRENT ASSETS,Cash & Bank - Operating,Debit,1,Unrestricted corporate treasury operating accounts
+1120,Settlement Clearing Bank Float,Assets,CURRENT ASSETS,Cash & Bank - Settlement,Debit,1,NIBSS & card scheme prefunded settlement accounts
+1210,Restricted Settlement/Escrow Cash,Assets,CURRENT ASSETS,Customer Funds (Restricted),Debit,1,Ring-fenced customer safeguarding escrow accounts under CBN guidelines
+1250,Payment Processor Receivables,Assets,CURRENT ASSETS,Settlement & Other Receivables,Debit,1,T+1 acquirer and switching processor receivables
+1310,Gross Loans to Merchants & Customers,Assets,CURRENT ASSETS,Gross Loans to Customers,Debit,1,Short-tenor merchant cash advances and micro-credit facilities
+1320,Loan Loss Allowance (ECL),Assets,CURRENT ASSETS,Loan Loss Allowance,Credit,1,Contra-asset IFRS 9 expected credit loss reserve (negative TB net)
+1360,Treasury Bills & Liquid Placements,Assets,CURRENT ASSETS,Treasury Bills & Placements,Debit,1,91-day and 182-day FGN Treasury Bills
+1410,Prepayments & Deferred Tax Assets,Assets,CURRENT ASSETS,Prepayments & Deferred Tax,Debit,1,Prepaid cloud hosting and deferred tax balances
+2110,Customer Wallet Balances,Liabilities,CURRENT LIABILITIES,Customer Wallet Balances,Credit,-1,On-demand stored value customer e-money liabilities
+2120,Agent Float Liabilities,Liabilities,CURRENT LIABILITIES,Agent Float Liabilities,Credit,-1,Super-agent and POS network liquidity float balances
+2140,Merchant Settlement Payables,Liabilities,CURRENT LIABILITIES,Settlement Payables,Credit,-1,Unsettled T+1 merchant payout clearing obligations
+2220,Deferred Transaction Revenue,Liabilities,CURRENT LIABILITIES,Trade & Other Payables,Credit,-1,Unearned annual platform & gateway subscription fees
+2210,Accrued Processor Fees & Vendor Payables,Liabilities,CURRENT LIABILITIES,Trade & Other Payables,Credit,-1,Accrued switching/gateway fees and operating vendor payables
+2250,Corporate Taxes Payable,Liabilities,CURRENT LIABILITIES,Tax Payable,Credit,-1,Accrued statutory corporate income tax and WHT payable
+2310,Short-term Credit Facility,Liabilities,CURRENT LIABILITIES,Short-term Borrowings,Credit,-1,Revolving working capital facility due within 12 months
+2510,Long-term Borrowings (Venture Debt),Liabilities,NON-CURRENT LIABILITIES,Long-term Borrowings,Credit,-1,Senior term debt facility maturing beyond 12 months
+3100,Share Capital,Equity,EQUITY,Share Capital & Premium,Credit,-1,Issued ordinary share capital
+3110,Paid-In Capital (Share Premium),Equity,EQUITY,Share Capital & Premium,Credit,-1,Series A/B investor share premium reserve
+3200,Retained Earnings,Equity,EQUITY,Retained Earnings b/f,Credit,-1,Accumulated retained earnings brought forward
+3300,Profit for the Period (YTD),Equity,EQUITY,Profit for the Period (YTD),Credit,-1,Year-to-date net profit transferred from Management P&L

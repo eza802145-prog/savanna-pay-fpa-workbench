@@ -1,0 +1,8 @@
+{
+  "name": "Savanna Pay FP&A Workbench",
+  "description": "Automated Management Balance Sheet reporting, Power Query trial balance consolidation, and executive financial position dashboard for Savanna Pay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
